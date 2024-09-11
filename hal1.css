@@ -16,12 +16,11 @@ body{
 }
 .textawal{
     text-align: center;
-    color: rgb(255, 214, 251);
+    color: rgb(93, 0, 174);
     font-family: "Poppins", sans-serif;
     font-weight: 600;
     font-style: italic;
     font-size: 60px;
-    text-shadow: 5px 5px black;
-    filter: blur(1px);
+    text-shadow: 5px 5px rgb(177, 87, 255);
     margin-top: 350px;
 }
