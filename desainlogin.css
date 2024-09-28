@@ -14,14 +14,14 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    box-shadow: 0 10px 15px;
+    box-shadow: 0 20px 25px;
 }
 .center{
     display: flex;
     justify-content: center;
     width: 1000px;
     margin: 0;
-    margin-top: 100px;
+    margin-top: 200px;
     margin-bottom: 100px;
 }
 .h1{
@@ -58,16 +58,21 @@ body{
 }
 .designsubmit{
     background-color: rgba(164, 87, 223, 0);
-    width: 100px;
+    width: 150px;
+    height: 30px;
     color: aliceblue;
 }
 .designname{
     background-color:white;
     border-radius: 15px;
+    width: 300px;
+    height: 25px;
 }
 .designemail{
     border-radius: 15px;
     background-color: white;
+    width: 300px;
+    height: 25px;
 }
 .stiker{
     width: 50px;

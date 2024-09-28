@@ -12,6 +12,7 @@
     </style>
 </head>
 <body>
+    <script src="second.js"></script>
     <?PHP 
         $username = $_GET['name'];
         $eemail = $_GET['email'];
@@ -20,7 +21,9 @@
         }
     ?>
     <div class="photo1">
-        <div class="textawal">WELCOME BABY</div>
+        <div>
+            <div class="textawal">WELCOME BABY</div>
+        </div>
     </div>
 </body>
 </html>
