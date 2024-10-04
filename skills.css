@@ -1,0 +1,81 @@
+
+.navbar {
+    background: linear-gradient(to right, rgb(255, 111, 135), pink);
+}
+
+.nav-link {
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-brand:hover {
+    color: pink;
+}
+
+.nav-link:hover {
+    color: rgb(255, 111, 135);
+}
+.carouselwrap{
+    height: 600px;
+}
+.firstcarousel{
+    height: 80%;
+}
+.secondcarousel{
+    height: 80%;
+}
+.img{
+    object-fit: cover;
+    height: 500px;
+}
+.wrap{
+    margin-top: 5%;
+    margin-left: 25px;
+}
+.textskill{
+    margin-left: 25px;
+}
+.wrap1{
+    margin-top: 15px;
+    margin-left: 25px;
+}
+.proses1{
+    border: 2px solid black;
+}
+
+@keyframes gerak {
+    0%   {width: 0%;}
+    100% {width: 50%;}
+  }
+
+.animation1{
+    animation-name: gerak;
+    animation-duration: 8s;
+}
+@keyframes gerak1 {
+    0%   {width: 0%;}
+    100% {width: 60%;}
+  }
+.animation2{
+    animation-name: gerak1;
+    animation-duration: 8s;
+}
+@keyframes gerak2 {
+    0%   {width: 0%;}
+    100% {width: 80%;}
+  }
+.animation3{
+    animation-name: gerak2;
+    animation-duration: 8s;
+}
+@keyframes gerak3 {
+    0%   {width: 0%;}
+    100% {width: 70%;}
+  }
+.animation4{
+    animation-name: gerak3;
+    animation-duration: 8s;
+}

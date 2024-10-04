@@ -1,0 +1,50 @@
+body {
+    background-image: url('wallpaper.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.navbar {
+    background: linear-gradient(to right, rgb(255, 111, 135), pink);
+}
+
+.nav-link {
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-brand:hover {
+    color: pink;
+}
+
+.nav-link:hover {
+    color: rgb(255, 111, 135);
+}
+
+.rounded {
+    height: 400px;
+    width: 400px;
+}
+
+.wrap {
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding: 20px;
+}
+
+.h2.textex{
+    text-shadow: 0 0 6px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073;
+    color: rgba(195, 26, 26, 0.243);
+}
+
+.h1{
+    color: white;
+}
+
+.bottomtext{
+    color: black;
+}

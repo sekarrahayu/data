@@ -15,7 +15,7 @@
     <div class="center">
         <div class="ror">
             <center>
-                <img class="stiker" src="kuromisticker.jpeg">
+                <img class="stiker" src="kuromisticker.jpeg00">
                 <h1 class="h1">Log in please</h1>
             </center>
             <form action="second.php" method="get" class="input">
